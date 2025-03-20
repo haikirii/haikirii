@@ -6,7 +6,7 @@
 ```javascript
 const thai = {
   pronouns: "he" | "she",
-  learning: [HTML, CSS, JavaScript, Python]
+  learning: [React, JavaScript, Python]
   
 ```
 <br><br>
