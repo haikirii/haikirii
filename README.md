@@ -1,12 +1,12 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E0E1CF&width=435&lines=Ol%C3%A1!+Bem-vindo+ao+meu+espa%C3%A7o." alt="Typing SVG" width="65%"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B7CA79&width=435&lines=Welcome+to+my+little+space!!" /></a>
+<img src="assets/10178abde04b16bbe48c50b71f691b14.jpg" width="25%" align= "right" />
 <br><br>
-</div>
+<pre>
+  pronouns: he/him | she/her
+  learning: React.js, JavaScript, Python
+  || sofware engineer student ||
+  20y
+</pre>
+<br><br>
 
-```javascript
-const thai = {
-  pronouns: "he" | "she",
-  learning: [React, JavaScript, Python]
-  
-```
-<br><br>
